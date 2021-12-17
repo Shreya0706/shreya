@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Amit Verma</h1>
+<h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 <h3 align="center">I am a second year Computer Science student at Vellor Institute of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitv212&label=Profile%20views&color=0e75b6&style=flat" alt="amitv212" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitv212&label=Profile%20views&color=0e75b6&style=flat" alt="Shreya0706" /> </p>
 
 - 🔭 I’m currently working on **learning new skills**
 
@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
-- 📫 How to reach me **amit.av379@gmail.com**
+- 📫 How to reach me **shreyagupta070602@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-verma-4345ab214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit verma" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://www.linkedin.com/in/shreya-gupta-778723209/" alt="Shreya Gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/amit_vrm21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_vrm21" height="30" width="40" /></a>
 </p>
 
